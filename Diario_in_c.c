@@ -14,6 +14,7 @@ return 1;
 }
 	
 void rimuovi(int n1,int n2){
-	
+printf("Vediamo se entra in conflitto");
+printf("BOH");	
 }
 
